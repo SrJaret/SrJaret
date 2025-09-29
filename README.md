@@ -4,9 +4,8 @@
 I am Swastik Baranwal from Delhi, India who is an Open Source and V Contributor, DevOps enthusiast, Ex Pokemon Gba Rom Hacker and Pixel Artist, loves Anime and Manga, always learning new things, ready for discussions and making new projects, write blogs on Dev.to etc.
 
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: [Acknowledged](https://raw.githubusercontent.com/Delta456/Delta456/master/img/solomon.png) by [Guido Van Rossum](https://github.com/gvanrossum) himself 🤯
 
-![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true)
+<!--![Swastik Baranwal's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Delta456&show_icons=true&include_all_commits=true)-->
 
 
 ### Programming Languages 🌐
