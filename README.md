@@ -33,7 +33,8 @@ I am Swastik Baranwal from Delhi, India who is an Open Source and V Contributor,
 
 You can find and get touch with me on these accounts!
 
-| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/SrJaret) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">] (https://www.instagram.com/srjarette/) ||---|---|
+| [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/github.png" alt="github logo" width="34">](https://github.com/SrJaret) | [<img src="https://raw.githubusercontent.com/Delta456/Delta456/master/img/instagram.jpg" alt="instagram logo" width="24">] (https://www.instagram.com/srjarette/) |
+|---|---|
 
 ---
 <!--
